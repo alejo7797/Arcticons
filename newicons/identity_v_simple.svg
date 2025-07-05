@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-name="Layer 1" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }</style>
+ </defs>
+ <rect class="cls-1" x="5.5" y="5.5" width="37" height="37" rx="4" ry="4" stroke="#fff"/>
+ <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+  <line class="r" x1="11.164" x2="11.164" y1="16.712" y2="30.961"/>
+  <polyline class="r" transform="matrix(1.7811 0 0 1.7811 -501.34 -55.691)" points="302.48 40.65 299.83 48.65 297.18 40.65" stroke-width=".56144"/>
+  <path class="r" d="m22.975 25.108c0-1.9674-1.5949-3.5622-3.5623-3.5622h-1.8e-5c-1.9674 0-3.5622 1.5949-3.5622 3.5622v2.3155c0 1.9674 1.5949 3.5622 3.5622 3.5622h1.8e-5c1.9674 0 3.5623-1.5949 3.5623-3.5622"/>
+  <line class="r" x1="22.975" x2="22.975" y1="30.986" y2="16.737"/>
+ </g>
+</svg>
