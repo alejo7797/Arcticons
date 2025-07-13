@@ -742,6 +742,11 @@
 	    image=""
 	    link="https://github.com/qappell" />
     <contributor
+        name="trainlos"
+        contribution="Icon Creator."
+        image="https://avatars.githubusercontent.com/u/27382339"
+        link="https://github.com/trainlos" />
+    <contributor
         name="CodeSpoof"
         contribution="Icon Creator"
         image="https://avatars.githubusercontent.com/u/42744253?v=4"
@@ -752,8 +757,18 @@
         image="https://avatars.githubusercontent.com/u/5500727?v=4"
         link="https://purpleygoodness.design" />
     <contributor
+       name="justxbird"
+       contribution="Icon Creator."
+       image="https://avatars.githubusercontent.com/u/188099295?v=4"
+       link="https://listed.to/@kyx" />
+    <contributor
         name="RouEmpire"
         contribution="Icon Creator."
         image=""
         link="https://rouempire.github.io" />
+    <contributor
+        name="constellationz"
+        contribution="Icon Creator"
+        image="https://avatars.githubusercontent.com/u/38427204?v=4"
+        link="https://github.com/constellationz" />
 </resources>
